@@ -7,6 +7,6 @@ HuiMCTSPlayer is implemented using Monte Carlo Tree Search Algorithm.
 
 More Details, please refer to https://arxiv.org/abs/1802.05944
 
-All these players should be integreted to GGP_Base project to run, more information, please see https://github.com/ggp-org/ggp-base
+All these players should be integrated to GGP_Base project to run, more information, please see https://github.com/ggp-org/ggp-base
 
 More comments of source code to assist reading will be updated sooner
